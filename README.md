@@ -1,5 +1,7 @@
-<p align=center> ![title here](https://europe-west1-holded-analytics-sb-jesus-01c3.cloudfunctions.net/img/1.jpg)</p>
-
+![title here](https://europe-west1-holded-analytics-sb-jesus-01c3.cloudfunctions.net/img/1.jpg)
+<p align="center">
+  <img width="460" height="300" src="https://europe-west1-holded-analytics-sb-jesus-01c3.cloudfunctions.net/img/1.jpg">
+</p>
 # Welcome
 
 Join the Holded adventure! Welcome to the Holded Tech careers portal.
