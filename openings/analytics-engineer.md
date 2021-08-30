@@ -9,9 +9,6 @@ We are looking for Analytics Engineer to join the data team.
 Analytics Engineers are part of the tech team but sit at the crossing point of business teams and data engineering. The 
 profile we are striving for is a person able to translate business language into technical specifications and implementations.
 
-You will be part of the data team that owns and maintains Holded’s data infrastructure and integrations. The team is  formed by 
-Data Engineers, Data Scientists, and Data Analysts working side by side as a product team, developing data solutions for the 
-whole company
 
 ## Salary range
 
