@@ -72,7 +72,7 @@ predictive, and prescriptive data analysis
 ## Nice-to-haves
 
 - You have deep experience with Martech integrations and tools
-- You have had marketing a team as main stakeholder
+- You have worked embeded in a marketing team or have a marketing team as a main stakeholder
 - But the most important is, you are a freak like we are, you love what you do and you want to enjoy your work while
   building something important
 
