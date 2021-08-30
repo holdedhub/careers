@@ -71,11 +71,8 @@ predictive, and prescriptive data analysis
 
 ## Nice-to-haves
 
-- You have a full stack mindset. It does not mean you have mastered every single part of the stack, but that you
-  understand how things work under the hood and are willing to help when needed.
-
-- You have deep experience with MongoDB, Redis, etc...
-
+- You have deep experience with Martech integrations and tools
+- You have had marketing a team as main stakeholder
 - But the most important is, you are a freak like we are, you love what you do and you want to enjoy your work while
   building something important
 
