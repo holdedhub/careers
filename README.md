@@ -1,6 +1,4 @@
-<p align=center>
-  <img src="https://europe-west1-holded-analytics-sb-jesus-01c3.cloudfunctions.net/img/1.png">
-</p>
+
 
 # Welcome
 
@@ -90,4 +88,8 @@ Read the following sections to learn what tech stack is used in every team or co
 - [Infrastructure and operations](stacks.md#infrastructure-and-operations)
 - [Analytics](stacks.md#analytics)
 - [QA and automations](stacks.md#qa)
+
+<p align=center>
+  <img src="https://europe-west1-holded-analytics-sb-jesus-01c3.cloudfunctions.net/img/1.png">
+</p>
 
