@@ -6,8 +6,7 @@
 
 We are looking for Analytics Engineer to join the data team.
 
-Analytics Engineers are part of the tech team but sit at the crossing point of business teams, marketing teams, and data engineering. The 
-the profile we are striving for is a person able to translate business language into technical specifications and implementations.
+Analytics Engineers are part of the tech team but sit at the crossing point of business teams, marketing teams, and data engineering. The profile we are striving for is a person able to translate business language into technical specifications and implementations.
 
 Your time will be split between implementing methods to collect data, automating integration with 3rd party tools, enforcing data governance, analyzing data, and present findings. 
 
@@ -51,7 +50,7 @@ predictive, and prescriptive data analysis
 
 - You will know the architecture in detail, and you will be in the process of improving certain parts. By then, you will have clear areas you would like to improve and lead the adoption of those improvements.
 - You will have led a successful project, be it a new implementation, an automation feature, a technical debt reduction... achieving the expected result.
-- You will have discovered the pain points from the stakeholders and proposed solutions to it.
+- You will have discovered the pain points from the stakeholders and proposed solutions to them.
 
 ### In six months
 
@@ -74,7 +73,7 @@ predictive, and prescriptive data analysis
 
 ## Nice-to-haves
 
-- You have deep experience with Martech integrations and tools
+- You have worked with transformation tools such as dbt or dataform
 - You have worked embedded in a marketing team or had a marketing team as the main stakeholder
 - But the most important is, you are a freak like we are, you love what you do and you want to enjoy your work while building something important
 
