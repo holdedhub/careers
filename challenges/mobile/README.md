@@ -20,9 +20,11 @@ These features are optional, however if you completed the previous features and 
 4. Include a "share" button in the documents view with a native "share" feature.
 5. Display dates in a relative format (e.g. "1 day ago").
 
-![Screenshot 1](assets/smd_1.png "Screenshot 1")
-![Screenshot 2](assets/smd_2.png "Screenshot 2")
-![Screenshot 3](assets/smd_3.png "Screenshot 3")
+<p align="center">
+  <img src="assets/mdc_1.png" height="600" width="auto" alt="Screenshot 1">
+  <img src="assets/mdc_2.png" height="600" width="auto" alt="Screenshot 2">
+  <img src="assets/mdc_3.png" height="600" width="auto" alt="Screenshot 3">
+</p>
 
 ## Tasks
 
