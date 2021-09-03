@@ -10,8 +10,8 @@ Analytics Engineers are part of the tech team but sit at the crossing point of b
 engineering. The profile we are striving for is a person able to translate business language into technical
 specifications and implementations.
 
-Your time will be split between implementing methods to collect data, automating integration with 3rd party tools,
-enforcing data governance, analyzing data, and presenting findings.
+Your time will be split among 75% technical tasks, such as implementing methods to collect data, automating integration with
+3rd party tools, enforcing data governance, and 25% analytical tasks like data wrangling, analyzing data and presenting findings. 
 
 Analytics Engineers are enablers in the data team, being able to complement the work made by the data engineers and data
 analysts and serve as liaisons between tech squads and business teams in data-related matters.
