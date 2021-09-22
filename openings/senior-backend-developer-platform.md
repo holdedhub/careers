@@ -1,6 +1,6 @@
 # Senior Backend Developer (Platform Team)
 
-[Apply now!](https://jobs.holded.com/o/senior-backend-developer/c/new)
+[Apply now!](https://jobs.holded.com/o/senior-backend-developer-platform/c/new)
 
 ## The role
 
@@ -84,4 +84,4 @@ areas of the business.
 - But the most important is, you are a freak like we are, you love what you do and you want to enjoy your work while
   building something important
 
-[Apply now!](https://jobs.holded.com/o/senior-backend-developer/c/new)
+[Apply now!](https://jobs.holded.com/o/senior-backend-developer-platform/c/new)
