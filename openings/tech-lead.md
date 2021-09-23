@@ -107,3 +107,7 @@ other areas of the business.
 
 
 [Apply now!](https://jobs.holded.com/o/tech-lead/c/new)
+
+<p align="center">
+  <img src="https://europe-west1-holded-analytics-dev-208b.cloudfunctions.net/image_tracker/tech-lead.png?id=tech-lead.md" title="logo">
+</p>

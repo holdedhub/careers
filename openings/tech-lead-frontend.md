@@ -98,3 +98,7 @@ Our main product work happens inside cross-disciplinary teams, that we call squa
 - You are a freak like we are, you love what you do, and you want to enjoy your work while building something important.
 
 [Apply now!](https://jobs.holded.com/o/frontend-tech-lead/c/new)
+
+<p align="center">
+  <img src="https://europe-west1-holded-analytics-dev-208b.cloudfunctions.net/image_tracker/tech-lead-frontend.png?id=tech-lead-frontend.md" title="logo">
+</p>

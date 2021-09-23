@@ -85,3 +85,7 @@ areas of the business.
   building something important
 
 [Apply now!](https://jobs.holded.com/o/senior-backend-developer/c/new)
+
+<p align="center">
+  <img src="https://europe-west1-holded-analytics-dev-208b.cloudfunctions.net/image_tracker/senior-backend-developer-platform.png?id=senior-backend-developer-platform.md" title="logo">
+</p>

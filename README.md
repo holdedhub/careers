@@ -87,3 +87,6 @@ Read the following sections to learn what tech stack is used in every team or co
 - [Analytics](stacks.md#analytics)
 - [QA and automations](stacks.md#qa)
 
+<p align="center">
+  <img src="https://europe-west1-holded-analytics-dev-208b.cloudfunctions.net/image_tracker/readme.png?id=readme.md" title="logo">
+</p>

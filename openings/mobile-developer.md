@@ -61,3 +61,7 @@ The mobile team is responsible for developing mobile applications and mobile rel
 - You have a full-stack mindset (that is, for example, you are not an expert in server-side technologies, but you are
   able to read server-side code and implement minor fixes when needed).
 - You are a freak like we are, you love what you do, and you want to enjoy your work while building something important.
+
+<p align="center">
+  <img src="https://europe-west1-holded-analytics-dev-208b.cloudfunctions.net/image_tracker/mobile-developer.png?id=mobile-developer.md" title="logo">
+</p>
