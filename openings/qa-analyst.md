@@ -2,6 +2,7 @@
 
 As a QA Analyst, you will be part of our software development team joining one of our squads to work in a vertical of
 the business.
+You will work in an agile environment, contributing in the whole development process from defining a new feature till deploying it in production.
 
 (Full remote
 allowed, [see notes on full remote roles for more details](https://github.com/holdedhub/careers#notes-on-full-remote-roles))
@@ -14,7 +15,8 @@ Read about other perks and benefits at [jobs.holded.com](https://jobs.holded.com
 
 # The team
 
-The mobile team is responsible for developing mobile applications and mobile related features.
+You will be part of a product development cross-functional team, where you will work with backend, frontend and full-stack developers, product owners, etc.
+Also you will be part of the QA guild, to gather together with the rest of QA and share methodologies, tools and experiences, helping to define a common strategy to deliver the best quality.
 
 # What you will do
 
@@ -34,32 +36,30 @@ Your main responsibilities will be:
 
 - You will have completed your onboarding.
 - You will already know the whole team.
-- You will have shipped a ready-to-use production feature.
+- You will be autonomous to work on the team features/bugs.
 
 ## In three months
 
-- You will know the architecture in detail, and you will be in the process of improving certain parts. By then, you will
-  have clear areas you would like to improve and lead the adoption of those improvements.
-- You will have a deep knowledge about the product and how to implement or improve product features in several areas.
+- You will have a clear picture of the product, not only the team scope but also a general view of the whole platform.
+- You will know the processes we follow and will be able to challenge them or to suggest improvements in order to
+  make them more efficient/effective.
 
 ## In six months
 
 - You will already know all the processes and tools in depth.
-- You will be able to autonomously work on a product feature from gathering requirements to rolling out the live
-  application.
+- You will be able to help on defining and planning new features, clarifying bugs to other team members and to
+  solve doubts from other teams regarding product and functionality.
+- You will have a clear understanding on how the platform works and what’s its architecture.
 
 # About you
 
-- +5 year of work experience in a similar role; working as a QA Analyst in a web or mobile product.
+- +3 year of work experience in a similar role; working as a QA Analyst in a web or mobile product.
 - Experience using Jira and bug reporting.
 - Strong attention to detail.
 - Fluent in English.
 
 # Nice-to-haves
 
-- You have experience with native IOS and Android development
-- You have experience with other frameworks like Flutter, etc...
-- You have a solid experience with the React ecosystem, Redux, RxJS, etc...
-- You have a full-stack mindset (that is, for example, you are not an expert in server-side technologies, but you are
-  able to read server-side code and implement minor fixes when needed).
+- Experience working with automation frameworks like Cypress.
+- Accounting and finance basic understanding.
 - You are a freak like we are, you love what you do, and you want to enjoy your work while building something important.
