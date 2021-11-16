@@ -9,7 +9,8 @@ allowed, [see notes on full remote roles for more details](https://github.com/ho
 .
 
 # Salary range
---
+
+24K - 26K €
 
 Read about other perks and benefits at [jobs.holded.com](https://jobs.holded.com/)
 
