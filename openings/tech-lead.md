@@ -95,7 +95,7 @@ other areas of the business.
 ## Nice-to-haves
 
 - You practice DevOps, when you have developed something, you know how to (and you want to) deploy it to a production
-  environment You have experience designing public APIs (REST, gRPC, etc... )
+  environment.
 
 - You have a full stack mindset. It does not mean you have mastered every single part of the stack, but that you
   understand how things work under the hood and are willing to help when needed. 
