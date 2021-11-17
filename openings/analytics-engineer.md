@@ -91,3 +91,7 @@ solutions for the whole company.
   building something important
 
 [Apply now!](https://jobs.holded.com/o/analytics-engineer/c/new)
+
+<p align="center">
+  <img src="https://europe-west1-holded-analytics-dev-208b.cloudfunctions.net/image_tracker/analytics-engineer.png?id=analytics-engineer.md" title="logo">
+</p>

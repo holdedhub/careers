@@ -99,3 +99,7 @@ teams, and other areas of the business.
   building something important
 
 [Apply now!](https://jobs.holded.com/o/site-reliability-engineering/c/new)
+
+<p align="center">
+  <img src="https://europe-west1-holded-analytics-dev-208b.cloudfunctions.net/image_tracker/sre.png?id=sre.md" title="logo">
+</p>

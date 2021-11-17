@@ -198,3 +198,8 @@ We use the [Cypress](https://www.cypress.io/) end-to-end testing framework.
 - Automated test suite for mobile applications
 - Data-driven quality assurance
 - Improve observability, monitoring and alerting 
+
+<p align="center">
+  <img src="https://europe-west1-holded-analytics-dev-208b.cloudfunctions.net/image_tracker/stacks.png?id=stacks.md" title="logo">
+</p>
+

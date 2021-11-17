@@ -64,3 +64,7 @@ Your main responsibilities will be:
 - Experience working with automation frameworks like Cypress.
 - Accounting and finance basic understanding.
 - You are a freak like we are, you love what you do, and you want to enjoy your work while building something important.
+
+<p align="center">
+  <img src="https://europe-west1-holded-analytics-dev-208b.cloudfunctions.net/image_tracker/qa-analyst.png?id=qa-analyst.md" title="logo">
+</p>
