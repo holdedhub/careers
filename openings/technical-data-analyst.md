@@ -1,19 +1,19 @@
-# Analytics Engineer
+# Technical Data Analyst
 
-[Apply now!](https://jobs.holded.com/o/analytics-engineer/c/new)
+[Apply now!](https://jobs.holded.com/o/technical-data-analyst/c/new)
 
 ## The role
 
-We are looking for Analytics Engineer to join the data team.
+We are looking for a Technical Data Analyst to join the data team.
 
-Analytics Engineers are part of the tech team but sit at the crossing point of business teams, marketing teams, and data
+Technical Data Analysts are part of the tech team but sit at the crossing point of business teams, marketing teams, and data
 engineering. The profile we are striving for is a person able to translate business language into technical
 specifications and implementations.
 
 Your time will be split among 75% technical tasks, such as implementing methods to collect data, automating integration with
 3rd party tools, enforcing data governance, and 25% analytical tasks like data wrangling, analyzing data and presenting findings. 
 
-Analytics Engineers are enablers in the data team, being able to complement the work made by the data engineers and data
+Technical Data Analysts are enablers in the data team, being able to complement the work made by the data engineers and data
 analysts and serve as liaisons between tech squads and business teams in data-related matters.
 
 ## Salary range
@@ -90,8 +90,8 @@ solutions for the whole company.
 - But the most important is, you are a freak like we are, you love what you do and you want to enjoy your work while
   building something important
 
-[Apply now!](https://jobs.holded.com/o/analytics-engineer/c/new)
+[Apply now!](https://jobs.holded.com/o/technical-data-analyst/c/new)
 
 <p align="center">
-  <img src="https://europe-west1-holded-analytics-dev-208b.cloudfunctions.net/image_tracker/analytics-engineer.png?id=analytics-engineer.md" title="logo">
+  <img src="https://europe-west1-holded-analytics-dev-208b.cloudfunctions.net/image_tracker/technical-data-analyst.png?id=technical-data-analyst.md" title="logo">
 </p>

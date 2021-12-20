@@ -49,7 +49,7 @@ this [two-minute video to discover everything Holded can do!](https://www.youtub
 | [Senior Backend Developer (Product Team)](openings/senior-backend-developer-product.md) | Backend | 50K - 70K € | ✅
 | [Senior Backend Developer (Platform Team)](openings/senior-backend-developer-platform.md) | Backend | 50K - 70K € | ✅
 | [Site Reliability Engineering (SRE)](openings/sre.md) | Infrastructure | 50K - 70K € | Hybrid
-| [Analytics Engineer](openings/analytics-engineer.md) | Data | 30K - 40K € | Hybrid
+| [Technical Data Analyst](openings/technical-data-analyst.md) | Data | 30K - 40K € | Hybrid
 | [Fronted Tech Lead](openings/tech-lead-frontend.md) | Tech Leadership / Frontend | 55K - 75K € | Hybrid
 | [Tech Lead](openings/tech-lead.md) | Tech Leadership | 55K - 75K € | Hybrid
 
