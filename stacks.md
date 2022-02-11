@@ -17,11 +17,11 @@ scalable software.
 - **State management**: Redux
 - **Utility-first CSS framework**: Tailwind
 - **Testing library**: Jest
-- **Module bundler**: Webpack
-- **Styling**: SCSS, PostCSS, SCSS Modules
+- **Module bundler**: Webpack, Vite
+- **Styling**: SCSS, PostCSS, SCSS Modules, Emotion
 - **Other libraries**:
     - React Query: Fetching, caching and updating data
-    - React Forms: Performant, flexible and extensible forms with easy-to-use validation
+    - React Hook Form: Performant, flexible and extensible forms with easy-to-use validation
 
 ### Architectural foundations
 
@@ -50,7 +50,7 @@ scalable software.
 - **Application framework**: React Native
 - **Other libraries**:
     - React Query: Fetching, caching and updating data
-    - React Forms: Performant, flexible and extensible forms with easy-to-use validation
+    - React Hook Form: Performant, flexible and extensible forms with easy-to-use validation
 
 ### Architectural foundations
 

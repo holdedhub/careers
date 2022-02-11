@@ -1,4 +1,4 @@
-# Mobile developer challenge
+# React Native Developer challenge
 
 We want you to build a mobile application with the following features.
 
