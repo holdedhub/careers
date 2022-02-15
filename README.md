@@ -44,7 +44,6 @@ this [two-minute video to discover everything Holded can do!](https://www.youtub
 |-----------------------------------------------------------------------------------------|----------------------------|--------------|------------
 | [Senior Frontend Engineer (Product Team)](openings/senior-frontend-engineer.md)         | Frontend | 50 - 70K €   | ✅
 | [React Native Developer (Mobile Team)](openings/mobile-developer.md)                   | Frontend / Mobile | 40K - 55K €  | Hybrid
-| [Senior Full Stack Developer (Product Team)](openings/tech-lead-frontend.md)            | Backend / Frontend | 50K - 70K €  | ✅
 | [Senior Backend Developer (Product Team)](openings/senior-backend-developer-product.md) | Backend | 50K - 70K €  | ✅
 | [Site Reliability Engineering (SRE)](openings/sre.md)                                   | Infrastructure | 50K - 70K €  | Hybrid
 | [Technical Data Analyst](openings/technical-data-analyst.md)                            | Data | 30K - 40K €  | Hybrid
