@@ -72,3 +72,7 @@ the [sample repository](https://github.com/holdedlab/frontend-challenge).
 - Usage of databases or any data source connection or any kind of ORM. It’s OK to read the provided JSON API and the Websocket connection directly using basic primitives.
 - Usage of 3rd party libraries such as JS or CSS libraries (i.e Angular, React...). Except for the ones to assist your development such as test or build frameworks, or that you can explain the reasoning behind using it
   Superb user interface.
+
+<p align="center">
+  <img src="https://europe-west1-holded-analytics-dev-208b.cloudfunctions.net/image_tracker/challenges-frontend.png?id=challenges-frontend.md" title="logo">
+</p>

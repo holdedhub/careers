@@ -48,3 +48,7 @@ Some ideas:
 Bonus points:
 
 * Generate and run a test of our application to prevent deploy some errors in your environment.
+
+<p align="center">
+  <img src="https://europe-west1-holded-analytics-dev-208b.cloudfunctions.net/image_tracker/challenges-devops.png?id=challenges-devops.md" title="logo">
+</p>

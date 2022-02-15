@@ -54,3 +54,7 @@ Example 3: Buy Water without exact change
 * Please make sure the name **Holded** are not referenced in any place in your code.
 * Commit from the very beginning and commit often. We value the possibility to review your git log.
 
+<p align="center">
+  <img src="https://europe-west1-holded-analytics-dev-208b.cloudfunctions.net/image_tracker/challenges-backend.png?id=challenges-backend.md" title="logo">
+</p>
+

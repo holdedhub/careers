@@ -69,3 +69,7 @@ the [sample repository](https://github.com/holdedlab/frontend-challenge).
 ## Things that we are NOT looking for
 
 - Superb and pixel perfect user interface, just replicate the mockups provided and that's enough.
+
+<p align="center">
+  <img src="https://europe-west1-holded-analytics-dev-208b.cloudfunctions.net/image_tracker/challenges-mobile.png?id=challenges-mobile.md" title="logo">
+</p>
