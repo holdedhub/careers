@@ -8,7 +8,7 @@ We are hiring a **Senior Front-end engineer** who embraces software craftsmanshi
 
 ## Salary range
 
-TBD
+50K - 70K €
 
 Read about other perks and benefits at [jobs.holded.com](https://jobs.holded.com/)
 

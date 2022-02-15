@@ -1,4 +1,4 @@
-# Senior Backend Engineer
+# Senior Backend Engineer challenge
 ## Vending Machine
 
 The goal of this program is to model a vending machine and the state it must maintain during its operation. How exactly the actions on the machine are driven is left intentionally vague and is up to the candidate

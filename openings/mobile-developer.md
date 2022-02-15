@@ -1,21 +1,25 @@
-# The role
+# React Native Developer
+
+[Apply now!](https://jobs.holded.com/o/react-native-developer-barcelona/c/new)
+
+## The role
 
 We are looking for a mobile applications developer with experience in React Native to join the mobile team.
 
 (Full remote
 allowed, [see notes on full remote roles for more details](https://github.com/holdedhub/careers#notes-on-full-remote-roles)).
 
-# Salary range
+## Salary range
 
 40K - 55K €
 
 Read about other perks and benefits at [jobs.holded.com](https://jobs.holded.com/)
 
-# The team
+## The team
 
 The mobile team is responsible for developing mobile applications and mobile related features.
 
-# What you will do
+## What you will do
 
 - You will develop and improve product features for mobile platforms.
 - You will support and improve our current apps architecture.
