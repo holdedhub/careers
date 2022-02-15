@@ -8,19 +8,18 @@ Join the Holded adventure! Welcome to the Holded Tech careers portal.
 
 # About us
 
-Holded was founded in 2016 by Javi Fondevila and Bernat Ripoll, who met each other on Facebook with the idea of
-reinventing ERP for small businesses, a very crowded space with invoicing, accounting tools, CRMs and much more. Their
-obsession with creating the best product allowed them to become one of the most popular startups in Europe and the
-fastest-growing software company in their home market Spain. In 4 years they managed to onboard more than 80 000
-businesses.
+At **Holded**, we believe there is a different way to manage companies. An easier way. More effective. Better.
 
-From June 2021, Holded is part of the [Visma](https://www.visma.com/) group, **one of Europe's leading technology
-companies**, with thousands of employees across 21 countries and **over 4,000 developers**.
+It all started in 2016. Our founders, Javi Fondevila and Bernat Ripoll created Holded with the vision of reinventing the concept of ERP.
 
-We deliver software that simplifies and digitises core business processes in the private and public sectors. By helping
-one million customers run their business every day, we give companies a competitive edge and individuals time to focus
-on what they love. The Visma Group is active throughout the Scandinavian region, along with the Benelux, Central, and
-Eastern Europe.
+Our mission is to consolidate our position as the leading cloud ERP in Spain, creating a smart business management solution that covers all areas of business. We replace manual processes with intuitive software to run and automate the business operations, covering Invoicing, Accounting, HR, CRM, and Projects & Inventory management.
+
+We know that big goals need a great team. That’s why we’re looking for passionate people who work every day to be the best at what they do. Join our team of +120 employees and let’s reinvent how we do business!
+
+From June 2021, Holded is part of the Visma group, one of Europe’s leading technology companies, with thousands of employees across 21 countries and over 4,000 developers.
+
+At Holded, we do things differently. There’s no corporate nonsense, and no old-fashioned hierarchy. Instead, we work in self-sufficient, autonomous teams. Think of them like start-ups within a start-up that learn from each other.
+We didn’t start Holded to be another software company. We started Holded to **be epic**, and you can be part of it!
 
 # Our vision
 
@@ -41,17 +40,13 @@ this [two-minute video to discover everything Holded can do!](https://www.youtub
 
 # Current openings
 
-| Role                               | Guilds                     | Salary range  | Full remote
-|------------------------------------|----------------------------|---------------|------------
-| [Senior Frontend Developer (Product Team)](openings/tech-lead-frontend.md) | Frontend | 40K - 55K € | ✅
-| [Senior Mobile Developer (Mobile Team)](openings/mobile-developer.md) | Frontend / Mobile | 40K - 55K € | Hybrid
-| [Senior Full Stack Developer (Product Team)](openings/tech-lead-frontend.md) | Backend / Frontend | 50K - 70K € | ✅
-| [Senior Backend Developer (Product Team)](openings/senior-backend-developer-product.md) | Backend | 50K - 70K € | ✅
-| [Senior Backend Developer (Platform Team)](openings/senior-backend-developer-platform.md) | Backend | 50K - 70K € | ✅
-| [Site Reliability Engineering (SRE)](openings/sre.md) | Infrastructure | 50K - 70K € | Hybrid
-| [Technical Data Analyst](openings/technical-data-analyst.md) | Data | 30K - 40K € | Hybrid
-| [Fronted Tech Lead](openings/tech-lead-frontend.md) | Tech Leadership / Frontend | 55K - 75K € | Hybrid
-| [Tech Lead](openings/tech-lead.md) | Tech Leadership | 55K - 75K € | Hybrid
+| Role                                                                                    | Guilds                     | Salary range | Full remote
+|-----------------------------------------------------------------------------------------|----------------------------|--------------|------------
+| [Senior Frontend Engineer (Product Team)](openings/senior-frontend-engineer.md)         | Frontend | 50 - 70K €   | ✅
+| [React Native Developer (Mobile Team)](openings/mobile-developer.md)                   | Frontend / Mobile | 40K - 55K €  | Hybrid
+| [Senior Backend Developer (Product Team)](openings/senior-backend-developer-product.md) | Backend | 50K - 70K €  | ✅
+| [Site Reliability Engineering (SRE)](openings/sre.md)                                   | Infrastructure | 50K - 70K €  | Hybrid
+| [Technical Data Analyst](openings/technical-data-analyst.md)                            | Data | 30K - 40K €  | Hybrid
 
 ### Notes on full remote roles
 
