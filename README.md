@@ -46,7 +46,6 @@ this [two-minute video to discover everything Holded can do!](https://www.youtub
 | [React Native Developer (Mobile Team)](openings/mobile-developer.md)                   | Frontend / Mobile | Hybrid      |
 | [Senior Backend Developer](openings/senior-backend-developer-product.md) | Backend           | ✅           |
 | [Site Reliability Engineering (SRE)](openings/sre.md)                                  | Infrastructure    | Hybrid      |
-| [Technical Data Analyst](openings/technical-data-analyst.md)                           | Data              | Hybrid      |
 | [QA Analyst](openings/qa-analyst.md)                            | QA                | ✅       |
 
 ### Notes on full remote roles
