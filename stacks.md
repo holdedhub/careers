@@ -148,6 +148,7 @@ scalable software.
 - Pub/Sub
 - Dataflow
 - Cloud Functions
+- Cloud Run
 - Kubernetes Engine
 
 ### Foundations
