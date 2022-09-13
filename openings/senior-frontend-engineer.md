@@ -1,10 +1,10 @@
-# Senior Frontend Engineer
+# Frontend Engineer
 
-[Apply now!](https://jobs.holded.com/o/senior-frontend-engineer/c/new)
+[Apply now!](https://jobs.holded.com/o/frontend-engineer/c/new)
 
 ## The role
 
-We are hiring a **Senior Front-end engineer** who embraces software craftsmanship and has a strong background in frontend development.
+We are hiring a **Front-end engineer** who embraces software craftsmanship and has a strong background in frontend development.
 
 Read about other perks and benefits at [jobs.holded.com](https://jobs.holded.com/)
 
@@ -21,7 +21,7 @@ areas of the business.
 
 - You will be hands-on writing clean and maintainable code.
 - When you have developed something, you will know how to (and you will want to) deploy it to a production environment
-- As a senior developer, you will mentor other team members, and they will have you as a reference and someone to learn
+- As a developer, you will mentor other team members, and they will have you as a reference and someone to learn
   from.
 - You will lead architectural decisions, communicates them, and help teams to adopt the decisions.
 
@@ -67,7 +67,7 @@ areas of the business.
   building something important
 
 
-[Apply now!](https://jobs.holded.com/o/senior-frontend-engineer/c/new)
+[Apply now!](https://jobs.holded.com/o/frontend-engineer/c/new)
 
 <p align="center">
   <img src="https://europe-west1-holded-analytics-dev-208b.cloudfunctions.net/image_tracker/tech-lead.png?id=tech-lead.md" title="logo">

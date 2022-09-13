@@ -1,4 +1,4 @@
-# Senior Frontend Engineer challenge
+# Frontend Engineer challenge
 
 We want you to build a web application that displays a list of documents that a customer has on their account.
 
