@@ -56,12 +56,11 @@ the [sample repository](https://github.com/holdedlab/frontend-challenge).
 - Do not use frameworks such as React, Angular, Socket.io, etc.
 - In case you need to include a library, please include a note explaining why it’s
   needed and which other alternatives you considered and the reasoning behind it
-- Response format and examples can be found in the [server repository](https://
-  github.com/holdedlab/frontend-challenge).
+- Response format and examples can be found in the [server repository](https://github.com/holdedlab/frontend-challenge).
 
 ## Things we are looking for with this challenge
 
-- Maintainable and well-written code using good object oriented practices.
+- Maintainable and well-written code.
 - You should strive for an optimal solution, but keep in mind maintainability over
   premature optimization.
 - Ability to write well-written code over using a concrete framework.
