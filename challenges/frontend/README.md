@@ -21,6 +21,8 @@ These features are optional, however if you completed the previous features and 
 1. Offline support.
 2. Box notification.
 3. Display dates in a relative format (e.g. "1 day ago").
+4. Sort documents by name, version or creation date.
+5. New documents created by the user could be displayed at the top of the list.
 
 <p align="center">
   <img src="assets/sfe_1.png" height="auto" width="auto" alt="Screenshot 1">
@@ -52,7 +54,7 @@ the [sample repository](https://github.com/holdedlab/frontend-challenge).
 
 ## Requirements and additional notes
 
-- Provide source code, not the compiled code. Please DO NOT share the solution through a public source code system (GitHub, GitLab...)
+- Provide source code through a public source code system (GitHub, GitLab...). Repository must be private.
 - Do not use frameworks such as React, Angular, Socket.io, etc.
 - In case you need to include a library, please include a note explaining why it’s
   needed and which other alternatives you considered and the reasoning behind it
@@ -71,6 +73,7 @@ the [sample repository](https://github.com/holdedlab/frontend-challenge).
 - Usage of databases or any data source connection or any kind of ORM. It’s OK to read the provided JSON API and the Websocket connection directly using basic primitives.
 - Usage of 3rd party libraries such as JS or CSS libraries (i.e Angular, React...). Except for the ones to assist your development such as test or build frameworks, or that you can explain the reasoning behind using it
   Superb user interface.
+- Usage of Typescript is allowed.
 
 <p align="center">
   <img src="https://europe-west1-holded-analytics-dev-208b.cloudfunctions.net/image_tracker/challenges-frontend.png?id=challenges-frontend.md" title="logo">
