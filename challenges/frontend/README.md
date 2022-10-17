@@ -10,7 +10,8 @@ A document has a name, a list of contributors, a version number, and a list of a
 1. Display the most recent documents created, as a list view or as a grid view.
 2. Display a notification to the user (in real time), when a new document is being
    created by other users.
-3. Allow the creation of a new document.
+3. Allow the creation of a new document. New documents created by the user should be displayed in the list.
+4. Sort documents by name, version or creation date.
 
 The documents’ data will be exposed in a simple web server that responds to requests with JSON responses over HTTP. The real time notifications will be emitted through a websocket connection. See more details about the server in the sample repository.
 
@@ -52,11 +53,12 @@ the [sample repository](https://github.com/holdedlab/frontend-challenge).
 
 ## Requirements and additional notes
 
-- Provide source code, not the compiled code. Please DO NOT share the solution through a public source code system (GitHub, GitLab...)
+- Provide source code through a public source code system (GitHub, GitLab...). **Don't show any reference to Holded in the repository**.
 - Do not use frameworks such as React, Angular, Socket.io, etc.
 - In case you need to include a library, please include a note explaining why it’s
   needed and which other alternatives you considered and the reasoning behind it
 - Response format and examples can be found in the [server repository](https://github.com/holdedlab/frontend-challenge).
+- There is not an API call to create a new document. You should add the document in frontend memory.
 
 ## Things we are looking for with this challenge
 
@@ -71,6 +73,8 @@ the [sample repository](https://github.com/holdedlab/frontend-challenge).
 - Usage of databases or any data source connection or any kind of ORM. It’s OK to read the provided JSON API and the Websocket connection directly using basic primitives.
 - Usage of 3rd party libraries such as JS or CSS libraries (i.e Angular, React...). Except for the ones to assist your development such as test or build frameworks, or that you can explain the reasoning behind using it
   Superb user interface.
+- Usage of Typescript is allowed.
+- Usage of 3rd party testing frameworks is allowed.
 
 <p align="center">
   <img src="https://europe-west1-holded-analytics-dev-208b.cloudfunctions.net/image_tracker/challenges-frontend.png?id=challenges-frontend.md" title="logo">
