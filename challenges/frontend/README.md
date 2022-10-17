@@ -13,7 +13,7 @@ A document has a name, a list of contributors, a version number, and a list of a
 3. Allow the creation of a new document. New documents created by the user should be displayed in the list.
 4. Sort documents by name, version or creation date.
 
-The documents’ data will be exposed in a simple web server that responds to requests with JSON responses over HTTP. The real time notifications will be emitted through a websocket connection. See more details about the server in the sample repository.
+The documents’ data will be exposed in a simple web server that responds to requests with JSON responses over HTTP. The real time notifications will be emitted through a websocket connection. See more details about the server in the [server directory](server).
 
 ### Optional features
 
@@ -35,8 +35,7 @@ Your task is to write a well-organized, robust and scalable application taking t
 - Models the described problem with a suitable application structure that allow to add new features and to change requirements in a sustainable way
 - Implement the UI, based on the provided mockups (see attachments)
 - Implement different type of tests that ensure the correctness of the solution
-- The application must be supported in the latest two versions of Chrome, Firefox,
-  Safari, and Opera.
+- The application must be supported in the latest two versions of Chrome
 - Implement the integrations with the sample server provided
 - Include a README.md explaining your reasonings, ideas, and how to execute your
   code and run the tests
@@ -48,8 +47,7 @@ There are two data sources you can consume data from:
 1. The document's data is exposed in a JSON over HTTP API.
 2. The real-time notifications are emitted through a websocket connection.
 
-You should set up and integrate with the testing server in the
-the [sample repository](https://github.com/holdedlab/frontend-challenge).
+You should set up and integrate with the testing server in the [server directory](server).
 
 ## Requirements and additional notes
 
@@ -57,8 +55,10 @@ the [sample repository](https://github.com/holdedlab/frontend-challenge).
 - Do not use frameworks such as React, Angular, Socket.io, etc.
 - In case you need to include a library, please include a note explaining why it’s
   needed and which other alternatives you considered and the reasoning behind it
-- Response format and examples can be found in the [server repository](https://github.com/holdedlab/frontend-challenge).
+- Response format and examples can be found in the [server directory](server)
 - There is not an API call to create a new document. You should add the document in frontend memory.
+- Usage of Typescript is allowed.
+- Usage of 3rd party plugins to facilitate development and testing is allowed.
 
 ## Things we are looking for with this challenge
 
@@ -67,14 +67,6 @@ the [sample repository](https://github.com/holdedlab/frontend-challenge).
   premature optimization.
 - Ability to write well-written code over using a concrete framework.
 - Ability to write automated tests at different levels.
-
-## Things that we are NOT looking for
-
-- Usage of databases or any data source connection or any kind of ORM. It’s OK to read the provided JSON API and the Websocket connection directly using basic primitives.
-- Usage of 3rd party libraries such as JS or CSS libraries (i.e Angular, React...). Except for the ones to assist your development such as test or build frameworks, or that you can explain the reasoning behind using it
-  Superb user interface.
-- Usage of Typescript is allowed.
-- Usage of 3rd party testing frameworks is allowed.
 
 <p align="center">
   <img src="https://europe-west1-holded-analytics-dev-208b.cloudfunctions.net/image_tracker/challenges-frontend.png?id=challenges-frontend.md" title="logo">

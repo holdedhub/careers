@@ -1,0 +1,4 @@
+github.com/brianvoe/gofakeit/v5 v5.9.1 h1:uYNxmk4ocCTIq+y6O896JR8a6oZ42fzn2wc753punjc=
+github.com/brianvoe/gofakeit/v5 v5.9.1/go.mod h1:/ZENnKqX+XrN8SORLe/fu5lZDIo1tuPncWuRD+eyhSI=
+github.com/gorilla/websocket v1.4.2 h1:+/TMaTYc4QFitKJxsQ7Yye35DkWvkdLcvGKqM+x0Ufc=
+github.com/gorilla/websocket v1.4.2/go.mod h1:YR8l580nyteQvAITg2hZ9XVh4b55+EU/adAjf1fMHhE=
