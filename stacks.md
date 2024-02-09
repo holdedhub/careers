@@ -68,7 +68,7 @@ scalable software.
 
 # Server applications
 
-**Programming languages**: PHP 7.4 for the main operational application and Golang for supporting services and tools.
+**Programming languages**: PHP 8.2 for the main operational application and Golang for supporting services and tools.
 
 **Operational databases**: MongoDB, Redis
 
@@ -94,7 +94,6 @@ scalable software.
 ### What is next in the roadmap?
 
 - Bi-directional data streaming for real time features with gRPC
-- PHP 8
 
 # Infrastructure and operations
 
