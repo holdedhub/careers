@@ -14,7 +14,7 @@ It all started in 2016. Our founders, Javi Fondevila and Bernat Ripoll created H
 
 Our mission is to consolidate our position as the leading cloud ERP in Spain, creating a smart business management solution that covers all areas of business. We replace manual processes with intuitive software to run and automate the business operations, covering Invoicing, Accounting, HR, CRM, and Projects & Inventory management.
 
-We know that big goals need a great team. That’s why we’re looking for passionate people who work every day to be the best at what they do. Join our team of +120 employees and let’s reinvent how we do business!
+We know that big goals need a great team. That’s why we’re looking for passionate people who work every day to be the best at what they do. Join our team of +140 employees and let’s reinvent how we do business!
 
 From June 2021, Holded is part of the Visma group, one of Europe’s leading technology companies, with thousands of employees across 21 countries and over 4,000 developers.
 
