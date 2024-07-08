@@ -41,12 +41,9 @@ this [two-minute video to discover everything Holded can do!](https://www.youtub
 # Current openings
 
 | Role                                                                                   | Guilds            | Full remote |
-|----------------------------------------------------------------------------------------|-------------------|-------------|
-| [Frontend Engineer](openings/frontend-engineer.md)        | Frontend          | ✅           |
-| [React Native Developer (Mobile Team)](openings/mobile-developer.md)                   | Frontend / Mobile | Hybrid      |
-| [Senior Backend Developer](openings/senior-backend-developer-product.md) | Backend           | ✅           |
-| [Site Reliability Engineering (SRE)](openings/sre.md)                                  | Infrastructure    | Hybrid      |
-| [QA Analyst](openings/qa-analyst.md)                            | QA                | Hybrid       |
+|----------------------------------------------------------------------------------------|-------------------|------------|
+| [Frontend Engineer](openings/frontend-engineer.md)        | Frontend          | Hybrid           |
+| [Site Reliability Engineering (SRE)](openings/sre.md)                                  | Infrastructure    | Hybrid     |
 
 ### Notes on full remote roles
 
