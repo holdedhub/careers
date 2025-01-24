@@ -27,8 +27,6 @@ areas of the business.
 
 - You will be hands-on writing clean and maintainable code.
 - You will design domain-driven systems combining strategic and tactical design (DDD).
-- You will practice DevOps, you will help to maintain the infrastructure and development environments needed for your
-  product area.
 - When you have developed something, you will know how to (and you will want to) deploy it to a production environment
 - As a senior developer, you will mentor other team members, and they will have you as a reference and someone to learn
   from.
@@ -67,14 +65,15 @@ areas of the business.
 - You feel comfortable working with data structures and algorithms
 - You have experience with NoSQL databases (like MongoDB, DynamoDB, Redis), etc..
 - You like to explore new technologies and are curious about how things work
-- You have mastered at least a higher-level programming language and its ecosystem (ideally PHP, Golang, etc...)
+- You have mastered PHP and its ecosystem.
+- You have knowledge about front-end ecosystem or eager to learn it.
 - You know what is a Git rebase, and you are comfortable working in a large codebase with multiple team members
 
 ## Nice-to-haves
 
 - You practice DevOps, you have experience with infrastructure management, Docker, etc...
 - You have experience designing public APIs (REST, gRPC, etc... )
-- You have experience with Javascript and modern frontend development technologies
+- You have experience with Javascript and modern frontend development technologies (React, TypeScript, etc.)
 - But the most important is, you are a freak like we are, you love what you do and you want to enjoy your work while
   building something important
 
