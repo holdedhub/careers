@@ -44,8 +44,8 @@ The mobile team is responsible for developing mobile applications and mobile rel
 # About you
 
 - You have at least 5 years of software development experience.
-- You have excellent knowledge of TypeScript (preferred) or modern JavaScript (ES6+).
-- You have experience with React Native and the React ecosystem.
+- You have excellent knowledge of TypeScript and modern JavaScript (ES6+).
+- You have experience with React Native and the React ecosystem (React Navigation, ReactQuery, Reanimated, etc ...).
 - You have proven experience with modern mobile technologies and their ecosystem.
 - You like to explore new technologies and are curious about how things work.
 - You have a strong understanding of all mobile development practices (building, debugging, testing, and releasing).
@@ -57,7 +57,7 @@ The mobile team is responsible for developing mobile applications and mobile rel
 
 - You have experience with native IOS and Android development
 - You have experience with other frameworks like Flutter, etc...
-- You have a solid experience with the React ecosystem, Redux, RxJS, etc...
+- You have experience with 3rd party technologies like Expo, Redux, MMKV, Realm or GraphQL
 - You have a full-stack mindset (that is, for example, you are not an expert in server-side technologies, but you are
   able to read server-side code and implement minor fixes when needed).
 - You are a freak like we are, you love what you do, and you want to enjoy your work while building something important.
