@@ -68,7 +68,7 @@ func notifications(w http.ResponseWriter, r *http.Request) {
 			log.Println("write:", err)
 			break
 		}
-
+		log.Printf("Notification sent")
 		time.Sleep(time.Duration(rand.Intn(5)) * time.Second)
 	}
 }
@@ -126,5 +126,6 @@ func main() {
 	http.HandleFunc("/notifications", notifications)
 	http.HandleFunc("/documents", api)
 
+	log.Printf("Server starting on %s", *addr)
 	log.Fatal(http.ListenAndServe(*addr, nil))
 }
