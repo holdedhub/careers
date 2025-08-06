@@ -52,7 +52,7 @@ You should set up and integrate with the testing server in the [server directory
 ## Requirements and additional notes
 
 - Provide source code through a public source code system (GitHub, GitLab...). **Don't show any reference to Holded in the repository**.
-- Do not use frameworks such as React, Angular, Socket.io, etc.
+- :x: DON'T use frameworks such as React, Angular, Socket.io, etc.
 - In case you need to include a library, please include a note explaining why it’s
   needed and which other alternatives you considered and the reasoning behind it
 - Response format and examples can be found in the [server directory](server)
