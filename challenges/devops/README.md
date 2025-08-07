@@ -1,54 +1,58 @@
-# DevOps Technical challenge
+# Senior SRE Technical Test
 
 We think infrastructure is best represented as code, and provisioning of resources should be automated as much as possible.
 
-We are testing your ability to implement modern automated infrastructure, as well as general knowledge of system administration and coding. In your solution you should emphasize readability, maintainability and DevOps methodologies.
+We are testing your ability to implement modern automated infrastructure, as well as general knowledge of system administration and coding. In your solution you should emphasize readability, maintainability and SRE methodologies.
 
-To begin, create a GitHub repository and start adding your work. Commit often, we would rather see a history of trial and error than a single monolithic push. When you're finished, send us the URL to your repository.
+To begin, create a GitHub repository and start adding your work. When you're finished, send us the URL to your repository.
 
 You can use the following folder structure or create your own:
 
 ```
 ./
 ├─ 1_infrastructure
-│  └─ <your project>
-└─ 2_application
-   └─ <your project>
+│  └─ <your answer>
+├─ 2_application
+│  └─ <your answer>
+└─ 3_security
+   └─ <your answer>
 ```
 
-## 1. Infrastructure Test
-
-Build out some basic Infrastructure in AWS or GCP to deploy our [Golang server](app/server.go) that can be used in a repeatable way.
-Bonus points for the following:
+Provide a diagram and the Terraform code about the architecture in GCP to deploy our [Golang server](app/server.go) with high availability (HA) that can be used in a repeatable way.
+The answer should contain the following:
 
 * Use of Terraform.
-* Use of Kubernetes.
-* Clearly explaining why you're doing things a certain way.
-* Providing a PNG diagram of your infrastructure.
+* Use of Kubernetes (GKE).
+* Implement multi-region failover architecture.
+* Include a monitoring stack (Prometheus/Grafana).
+* Design auto-scaling policies based on custom metrics.
+* Diagram the complete architecture.
+* Terraform code (should be modular and reusable).
 
-## 2.1 Application (CI/CD)
+Optional:
+* Implement GitOps with ArgoCD.
+* Add a disaster recovery plan with RTO/RPO definitions.
 
-Use a tool of your choice such as Ansible, Bash, Chef or similar to automate the docker build and deploy of the [Golang server](app/server.go) that serves some static or dynamic content.
-Bonus points for the following:
+> Clearly explain why you're doing things a certain way.
+
+## 2. Application (CI/CD)
+
+Provide a complete diagram of the CI/CD proposal using a tool of your choice to automate the Docker build and deploy of the [Golang server](app/server.go) that serves some static or dynamic content.
+The answer should contain the following:
 
 * Using Containers as part of your automation.
-* Creating a CI pipeline, using a tool of your choice, that deploys the web server to a cloud environment of your choice.
-* Serve traffic from 443 port with self-signed certificate would be highly appreciate.
+* Creating a CI pipeline, using a tool of your choice, that deploys the web server to a GCP environment.
+* Implement canary deployments.
+* Add automated rollback strategies.
+* Serve traffic from port 443 with a self-signed certificate would be highly appreciated.
 
-## 2.2 Application (Coding)
+## 3. Security
 
-Add a new handler in our Golang application of your choice that does _something_ you'd normally end up having to do manually.
-Some ideas:
+Provide an explanation about the security that you consider to be implemented to this stack always taking into consideration the best practices that should be introduced for a production deployment.
+The answer should contain the following:
 
-* Backing up a file and sending the output to a cloud storage solution.
-* A basic API to provide you with some useful information.
-* Some healthcheck endpoint to check application status.
-* Getting some information back from an external source and presenting it to the end user.
-
-Bonus points:
-
-* Generate and run a test of our application to prevent deploy some errors in your environment.
-
-<p align="center">
-  <img src="https://europe-west1-holded-analytics-dev-208b.cloudfunctions.net/image_tracker/challenges-devops.png?id=challenges-devops.md" title="logo">
-</p>
+* Implement Zero Trust architecture.
+* Add a Vault of your choice for secrets management.
+* Implement Pod Security Policies.
+* Add WAF configuration.
+* Implement an audit logging system.
