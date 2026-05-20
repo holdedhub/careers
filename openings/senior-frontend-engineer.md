@@ -4,10 +4,16 @@
 
 ## The role
 
-We are hiring a **Senior Frontend engineer** who embraces software craftsmanship and has a strong background in frontend development. 
+We are hiring a **Senior Frontend Engineer** who embraces software craftsmanship and has a deep background in frontend development.
 As a Senior Frontend Engineer, you will play a key role in shaping the user experience of our platform, influencing several users and directly contributing to our mission of building the most innovative digital solutions in the industry.
 
-Read about other perks and benefits at [jobs.holded.com](https://jobs.holded.com/)
+Our main product work happens inside cross-disciplinary teams, that we call squads. Each squad is responsible for
+designing, developing, and operating all services relating to the assigned features, inside the Holded platform. The
+features can be related to one (or more) of our verticals: Accounting, Invoicing, Team Management, Project Management,
+Inventory, CRM, etc... The goal is to build a strong and reliable platform, keeping in mind the scalability and
+performance of the product, creating a safe and fair experience for all our clients.
+
+Read about other perks and benefits at [jobs.holded.com](https://jobs.holded.com/).
 
 ## The team
 
@@ -20,11 +26,11 @@ areas of the business.
 ## What you will do
 
 - You will be hands-on writing clean and maintainable code.
-- When you have developed something, you will know how to (and you will want to) deploy it to a production environment
-- As a developer, you will mentor other team members, and they will have you as a reference and someone to learn
-  from.
-- You will lead architectural decisions, communicates them, and help teams to adopt the decisions.
 - You will design and implement scalable, performant, and visually stunning web applications that meet user needs.
+- When you have developed something, you will know how to (and you will want to) deploy it to a production environment.
+- As a senior developer, you will mentor other team members, and they will have you as a reference and someone to learn
+  from.
+- You will lead architectural decisions, communicate them, and help teams to adopt them.
 
 ### In one month
 
@@ -52,8 +58,8 @@ areas of the business.
 
 ## About you
 
-- You have strong JavaScript programming skills (+7 years at least).
-- You have experience with React and Typescript (+5 years at least).
+- You have deep JavaScript programming skills.
+- You have strong experience with React and Typescript.
 - You can build custom tooling or libs.
 - You have testing experience (Unit and Integration at least).
 - You have excellent verbal and written communication skills, a great teammate with strong analytical, problem solving, debugging, and troubleshooting skills.
@@ -75,5 +81,5 @@ areas of the business.
 Join us in building something extraordinary. [Apply](https://jobs.holded.com/o/sr-frontend-engineer/c/new) today and let's shape the future of invoicing together!
 
 <p align="center">
-  <img src="https://europe-west1-holded-analytics-dev-208b.cloudfunctions.net/image_tracker/tech-lead.png?id=tech-lead.md" title="logo">
+  <img src="https://europe-west1-holded-analytics-dev-208b.cloudfunctions.net/image_tracker/senior-frontend-engineer.png?id=senior-frontend-engineer.md" title="logo">
 </p>

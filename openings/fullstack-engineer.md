@@ -14,7 +14,7 @@ features can be related to one (or more) of our verticals: Accounting, Invoicing
 Inventory, CRM, etc... The goal is to build a strong and reliable platform, keeping in mind the scalability and
 performance of the product, creating a safe and fair experience for all our clients.
 
-Read about other perks and benefits at [jobs.holded.com](https://jobs.holded.com/)
+Read about other perks and benefits at [jobs.holded.com](https://jobs.holded.com/).
 
 ## The team
 
@@ -27,14 +27,14 @@ areas of the business.
 ## What you will do
 
 - You will be hands-on writing clean and maintainable code across the stack, with a primary focus on the backend.
+- You will design domain-driven systems combining strategic and tactical design (DDD).
 - You will design scalable, performant and reliable services and APIs.
 - You will integrate and experiment with AI capabilities (LLMs and AI-assisted features) as part of the product.
 - You will practice DevOps, you will help to maintain the infrastructure and development environments needed for your
   product area.
 - When you have developed something, you will know how to (and you will want to) deploy it to a production environment.
-- As a developer, you will mentor other team members, and they will have you as a reference and someone to learn
-  from.
-- You will participate in architectural decisions, communicate them, and help teams to adopt them.
+- As a developer, you will help other team members grow, sharing what you know and learning from them.
+- You will contribute to architectural decisions, communicate them, and help teams to adopt them.
 - You will collaborate with hiring and training technical personnel.
 
 ### In one month
@@ -66,11 +66,11 @@ areas of the business.
 - You have a solid backend development background, with strong PHP skills and knowledge of its modern ecosystem.
 - You actively use AI tooling (Claude Code, LLMs, or similar) as a natural part of your engineering workflow.
 - You have experience with React and Typescript on the frontend side.
+- You have experience using design patterns like DDD.
+- You have experience with NoSQL databases (like MongoDB, DynamoDB, Redis), etc...
+- You have testing experience (Unit and Integration at least).
 - You care about best practices and software maintainability is a top priority for you.
 - You feel comfortable working with data structures and algorithms.
-- You have experience with NoSQL databases (like MongoDB, DynamoDB, Redis), etc..
-- You have experience using design patterns like DDD.
-- You have testing experience (Unit and Integration at least).
 - You like to explore new technologies and are curious about how things work.
 - You know what is a Git rebase, and you are comfortable working in a large codebase with multiple team members.
 

@@ -14,7 +14,7 @@ features can be related to one (or more) of our verticals: Accounting, Invoicing
 Inventory, CRM, etc... The goal is to build a strong and reliable platform, keeping in mind the scalability and
 performance of the product, creating a safe and fair experience for all our clients.
 
-Read about other perks and benefits at [jobs.holded.com](https://jobs.holded.com/)
+Read about other perks and benefits at [jobs.holded.com](https://jobs.holded.com/).
 
 ## The team
 
@@ -27,15 +27,15 @@ areas of the business.
 ## What you will do
 
 - You will be hands-on writing clean and maintainable code across the stack, with a primary focus on the backend.
-- You will design scalable, performant and reliable services and APIs.
 - You will design domain-driven systems combining strategic and tactical design (DDD).
+- You will design scalable, performant and reliable services and APIs.
 - You will actively integrate and experiment with AI capabilities (LLMs and AI-assisted features) as part of the product.
 - You will practice DevOps, you will help to maintain the infrastructure and development environments needed for your
   product area.
 - When you have developed something, you will know how to (and you will want to) deploy it to a production environment.
 - As a senior developer, you will mentor other team members, and they will have you as a reference and someone to learn
   from.
-- You will lead architectural decisions, communicates them, and help teams to adopt the decisions.
+- You will lead architectural decisions, communicate them, and help teams to adopt them.
 - You will collaborate with hiring and training technical personnel.
 
 ### In one month
@@ -60,21 +60,21 @@ areas of the business.
 
 - You will have become a reference within the team, specially in the squad product areas.
 - Your collaborations and your work will have helped to greatly improve the product and team the development experience.
+- You will take initiative in learning about our product, understanding real-world cases, building them into our product, and delivering value to our users.
 
 ## About you
 
 - You have an intrinsic bias towards simplicity and a constant willing to simplify complex systems.
-- You have a solid backend development background, with strong PHP skills (+5 years at least) and deep knowledge of its
-  modern ecosystem.
+- You have a deep backend development background, with strong PHP skills and deep knowledge of its modern ecosystem.
 - You actively use AI tooling (Claude Code, LLMs, or similar) as a natural part of your engineering workflow.
 - You have experience with React and Typescript on the frontend side.
-- You care about best practices and software maintainability is a top priority for you.
-- You feel comfortable working with data structures and algorithms.
-- You have experience with NoSQL databases (like MongoDB, DynamoDB, Redis), etc..
 - You have experience using design patterns like DDD.
+- You have experience with NoSQL databases (like MongoDB, DynamoDB, Redis), etc...
 - You have testing experience (Unit and Integration at least).
 - You have excellent verbal and written communication skills, a great teammate with strong analytical, problem solving,
   debugging, and troubleshooting skills.
+- You care about best practices and software maintainability is a top priority for you.
+- You feel comfortable working with data structures and algorithms.
 - You like to explore new technologies and are curious about how things work.
 - You know what is a Git rebase, and you are comfortable working in a large codebase with multiple team members.
 - You are proactive and enjoy taking ownership of complex challenges, driving them to resolution.
