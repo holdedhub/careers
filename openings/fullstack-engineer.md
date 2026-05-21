@@ -1,11 +1,12 @@
-# Senior Frontend Engineer
+# Fullstack Engineer
 
-[Apply now!](https://jobs.holded.com/o/sr-frontend-engineer/c/new)
+[Apply now!](https://jobs.holded.com/o/fullstack-engineer)
 
 ## The role
 
-We are hiring a **Senior Frontend Engineer** who embraces software craftsmanship and has a deep background in frontend development.
-As a Senior Frontend Engineer, you will play a key role in shaping the user experience of our platform, influencing several users and directly contributing to our mission of building the most innovative digital solutions in the industry.
+We are hiring a **Fullstack Engineer** with a strong backend foundation and a genuine passion for AI. You will own
+features end-to-end, but you will excel on the server side: architecture, data, performance, and reliability. You will
+also bring hands-on experience with AI tools that are reshaping how software is built today.
 
 Our main product work happens inside cross-disciplinary teams, that we call squads. Each squad is responsible for
 designing, developing, and operating all services relating to the assigned features, inside the Holded platform. The
@@ -25,12 +26,16 @@ areas of the business.
 
 ## What you will do
 
-- You will be hands-on writing clean and maintainable code.
-- You will design and implement scalable, performant, and visually stunning web applications that meet user needs.
+- You will be hands-on writing clean and maintainable code across the stack, with a primary focus on the backend.
+- You will design domain-driven systems combining strategic and tactical design (DDD).
+- You will design scalable, performant and reliable services and APIs.
+- You will integrate and experiment with AI capabilities (LLMs and AI-assisted features) as part of the product.
+- You will practice DevOps, you will help to maintain the infrastructure and development environments needed for your
+  product area.
 - When you have developed something, you will know how to (and you will want to) deploy it to a production environment.
-- As a senior developer, you will mentor other team members, and they will have you as a reference and someone to learn
-  from.
-- You will lead architectural decisions, communicate them, and help teams to adopt them.
+- As a developer, you will help other team members grow, sharing what you know and learning from them.
+- You will contribute to architectural decisions, communicate them, and help teams to adopt them.
+- You will collaborate with hiring and training technical personnel.
 
 ### In one month
 
@@ -54,32 +59,32 @@ areas of the business.
 
 - You will have become a reference within the team, specially in the squad product areas.
 - Your collaborations and your work will have helped to greatly improve the product and team the development experience.
-- You will take initiative in learning about our product, understanding real-world cases, building them into our product, and delivering value to our users.
 
 ## About you
 
-- You have deep JavaScript programming skills.
-- You have strong experience with React and Typescript.
-- You can build custom tooling or libs.
+- You have an intrinsic bias towards simplicity and a constant willing to simplify complex systems.
+- You have a solid backend development background, with strong PHP skills and knowledge of its modern ecosystem.
+- You actively use AI tooling (Claude Code, LLMs, or similar) as a natural part of your engineering workflow.
+- You have experience with React and Typescript on the frontend side.
+- You have experience using design patterns like DDD.
+- You have experience with NoSQL databases (like MongoDB, DynamoDB, Redis), etc...
 - You have testing experience (Unit and Integration at least).
-- You have excellent verbal and written communication skills, a great teammate with strong analytical, problem solving, debugging, and troubleshooting skills.
 - You care about best practices and software maintainability is a top priority for you.
 - You feel comfortable working with data structures and algorithms.
 - You like to explore new technologies and are curious about how things work.
 - You know what is a Git rebase, and you are comfortable working in a large codebase with multiple team members.
-- You are proactive and enjoy taking ownership of complex challenges, driving them to resolution.
 
 ## Nice-to-haves
 
-- You have experience using design patterns like DDD.
-- You have experience with Node.js.
-- You have experience with other languages (PHP, GO, ..).
+- You have experience integrating AI/ML APIs or LLMs into production systems.
+- You have experience with vector databases or RAG architectures.
+- You practice DevOps, you have experience with infrastructure management, Docker, etc...
+- You have experience designing public APIs (REST, gRPC, etc... ).
 - But the most important is, you are a freak like we are, you love what you do and you want to enjoy your work while
   building something important.
 
-
-Join us in building something extraordinary. [Apply](https://jobs.holded.com/o/sr-frontend-engineer/c/new) today and let's shape the future of invoicing together!
+[Apply now!](https://jobs.holded.com/o/fullstack-engineer)
 
 <p align="center">
-  <img src="https://europe-west1-holded-analytics-dev-208b.cloudfunctions.net/image_tracker/senior-frontend-engineer.png?id=senior-frontend-engineer.md" title="logo">
+  <img src="https://europe-west1-holded-analytics-dev-208b.cloudfunctions.net/image_tracker/fullstack-engineer.png?id=fullstack-engineer.md" title="logo">
 </p>

@@ -4,7 +4,7 @@
 
 ## The role
 
-We are hiring backend engineers who embrace software craftsmanship and have a strong background in software
+We are hiring a **Backend Developer** who embraces software craftsmanship and has a strong background in software
 development.
 
 Our main product work happens inside cross-disciplinary teams, that we call squads. Each squad is responsible for
@@ -13,7 +13,7 @@ features can be related to one (or more) of our verticals: Accounting, Invoicing
 Inventory, CRM, etc... The goal is to build a strong and reliable platform, keeping in mind the scalability and
 performance of the product, creating a safe and fair experience for all our clients.
 
-Read about other perks and benefits at [jobs.holded.com](https://jobs.holded.com/)
+Read about other perks and benefits at [jobs.holded.com](https://jobs.holded.com/).
 
 ## The team
 
@@ -29,10 +29,9 @@ areas of the business.
 - You will design domain-driven systems combining strategic and tactical design (DDD).
 - You will practice DevOps, you will help to maintain the infrastructure and development environments needed for your
   product area.
-- When you have developed something, you will know how to (and you will want to) deploy it to a production environment
-- As a developer, you will mentor other team members, and they will have you as a reference and someone to learn
-  from.
-- You will lead architectural decisions, communicates them, and help teams to adopt the decisions.
+- When you have developed something, you will know how to (and you will want to) deploy it to a production environment.
+- As a developer, you will help other team members grow, sharing what you know and learning from them.
+- You will contribute to architectural decisions, communicate them, and help teams to adopt them.
 - You will collaborate with hiring and training technical personnel.
 
 ### In one month
@@ -60,26 +59,27 @@ areas of the business.
 
 ## About you
 
-- You have an intrinsic bias towards simplicity and a constant willing to simplify complex systems
+- You have an intrinsic bias towards simplicity and a constant willing to simplify complex systems.
 - You have a solid software development background, you are familiar with modern and scalable software development
-  practices
-- You care about best practices and software maintainability is a top priority for you
-- You feel comfortable working with data structures and algorithms
-- You have experience with NoSQL databases (like MongoDB, DynamoDB, Redis), etc..
-- You like to explore new technologies and are curious about how things work
-- You have mastered at least a higher-level programming language and its ecosystem (ideally PHP, Golang, etc...)
-- You know what is a Git rebase, and you are comfortable working in a large codebase with multiple team members
+  practices.
+- You have mastered at least a higher-level programming language and its ecosystem (ideally PHP, Golang, etc...).
+- You have experience with NoSQL databases (like MongoDB, DynamoDB, Redis), etc...
+- You have testing experience (Unit and Integration at least).
+- You care about best practices and software maintainability is a top priority for you.
+- You feel comfortable working with data structures and algorithms.
+- You like to explore new technologies and are curious about how things work.
+- You know what is a Git rebase, and you are comfortable working in a large codebase with multiple team members.
 
 ## Nice-to-haves
 
 - You practice DevOps, you have experience with infrastructure management, Docker, etc...
-- You have experience designing public APIs (REST, gRPC, etc... )
-- You have experience with Javascript and modern frontend development technologies
+- You have experience designing public APIs (REST, gRPC, etc... ).
+- You have experience with Javascript and modern frontend development technologies.
 - But the most important is, you are a freak like we are, you love what you do and you want to enjoy your work while
-  building something important
+  building something important.
 
 [Apply now!](https://jobs.holded.com/o/backend-dev)
 
 <p align="center">
-  <img src="https://europe-west1-holded-analytics-dev-208b.cloudfunctions.net/image_tracker/senior-backend-developer-product.png?id=senior-backend-developer-product.md" title="logo">
+  <img src="https://europe-west1-holded-analytics-dev-208b.cloudfunctions.net/image_tracker/backend-developer.png?id=backend-developer.md" title="logo">
 </p>
