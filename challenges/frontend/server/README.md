@@ -67,7 +67,7 @@ Example response
             "CreatedAt": "1993-11-12T00:55:44.438198299Z",
             "ID": "d7e00994-75e6-48f1-b778-e5d31ead7136",
             "Title": "Ten FIDY",
-            "UpdatedAt": "1946-04-15T06:09:44.564202073Z"
+            "UpdatedAt": "1946-04-15T06:09:44.564202073Z",
             "Version": "5.1.15"
         },
         {
